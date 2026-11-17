@@ -20,6 +20,7 @@ yarn-debug.log*
 Thumbs.db
 
 # IDE
+.vscode/
 .idea/
 *.swp
 *.swo
@@ -39,4 +40,5 @@ temp/
 batch_verification_*.json
 
 # Environment variables (if you add them later)
-config.bat
+.env
+.env.local
